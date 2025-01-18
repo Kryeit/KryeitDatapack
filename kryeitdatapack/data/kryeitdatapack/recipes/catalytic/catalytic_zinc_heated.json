@@ -2,17 +2,17 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "create:crushed_zinc_ore"
+      "item": "create:crushed_raw_zinc"
     },
     {
       "fluid": "minecraft:water",
       "amount": 1000
     },
     {
-      "item": "minecraft:nether_quartz"
+      "item": "minecraft:quartz"
     },
     {
-      "item": "createaddition:netherite_sheet"
+      "item": "createdeco:netherite_sheet"
     }
   ],
   "type": "create:mixing",
@@ -22,9 +22,8 @@
       "item": "create:zinc_nugget"
     },
     {
-      "count": 1,
-      "item": "createaddition:netherite_sheet",
-      "chance": 0.965
+      "item": "createdeco:netherite_sheet",
+      "chance": 0.9974
     }
   ]
 }
