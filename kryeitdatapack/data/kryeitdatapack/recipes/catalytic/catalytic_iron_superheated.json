@@ -1,0 +1,30 @@
+{
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "create:crushed_iron_ore"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+      "item": "minecraft:nether_quartz"
+    },
+    {
+      "item": "createaddition:netherite_sheet"
+    }
+  ],
+  "type": "create:mixing",
+  "results": [
+    {
+      "count": 16,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "item": "createaddition:netherite_sheet",
+      "chance": 0.965
+    }
+  ]
+}
