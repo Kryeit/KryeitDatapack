@@ -1,5 +1,5 @@
 {
-  "type": "create:deploying",
+  "type": "create:item_application",
   "ingredients": [
     {
       "tag": "c:stripped_wood"
